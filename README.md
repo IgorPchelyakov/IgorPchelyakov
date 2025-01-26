@@ -10,4 +10,7 @@ I am an experienced developer with more than 2 years of experience in web applic
 <b>My GitHub Stats</b>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IgorPchelyakov&show_icons=true&theme=radical)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IgorPchelyakov&theme=dracula)
+
 <a href="https://github.com/IgorPchelyakov" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorPchelyakov&langs_count=10&title_color=14b8a6&text_color=22c55e&icon_color=14b8a6&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
