@@ -8,6 +8,4 @@ I am an experienced developer with more than 2 years of experience in web applic
 ### Badges
 
 <b>My GitHub Stats</b>
-
-<a href="http://www.github.com/IgorPchelyakov"><img src="https://github-readme-streak-stats.herokuapp.com/?user=IgorPchelyakov&stroke=22c55e&background=181824&ring=14b8a6&fire=14b8a6&currStreakNum=22c55e&currStreakLabel=14b8a6&sideNums=22c55e&sideLabels=22c55e&dates=22c55e&hide_border=true" /></a>
 <a href="https://github.com/IgorPchelyakov" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorPchelyakov&langs_count=10&title_color=14b8a6&text_color=22c55e&icon_color=14b8a6&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
